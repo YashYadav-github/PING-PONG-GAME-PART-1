@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Oxygen&display=swap');
+body{
+ background-size: cover;
+}
+
+.heading{
+    font-size: 30px;
+    color: white;
+    font-family: 'Oxygen', sans-serif;
+}
+
+.ins_btn{
+    color: white;
+    background-color: teal;
+}
+
+.play_btn{
+    color: white;
+    background-color: teal;
+    margin-left: 10px;
+}
+
+.stats{
+    margin-top: 1px;
+    margin-bottom: 3px;
+}
